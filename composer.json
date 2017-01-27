@@ -1,5 +1,5 @@
 {
-    "name": "sanjoydesk/component5",
+    "name": "sanjoydesk/cyrus-component5",
     "type": "library",
     "description": "PHP Composer test",
     "keywords": ["framework", "http", "rest"],
